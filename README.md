@@ -1,5 +1,7 @@
 # Mediapipe_example
 
+Main : Pose_classiiation01.py
+
 - Python    3.9.9
 - mediapipe 0.8.9.1
 - numpy     1.22.1
